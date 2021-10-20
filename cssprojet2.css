@@ -1,0 +1,88 @@
+*
+{
+    margin: auto;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+}
+.title
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: indigo;
+}
+.pl , .lastwinner
+{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.small_img
+{
+    width: 10px;
+    height: 10px;
+}
+.underline1 ,.underline2 ,.underline3
+{
+    border: 0.33px dashed red;
+    color: red;
+}
+.underline1
+{
+    width: 205px;
+    
+}
+.underline2
+{
+    width: 220px;
+    
+}
+.underline3
+{
+    width: 590px;
+    
+}
+strong
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: large;
+    
+}
+.p1_name
+{
+    color: rgb(250, 54, 54);
+}
+.p2_name
+{
+    color: dodgerblue;
+}
+table
+{
+    margin-top: 40px;
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    border-collapse:collapse;
+    
+}
+
+
+td
+{
+    
+    border: 3px solid rgb(156, 52, 14);
+    padding: 10px;
+    cursor: pointer;
+    width:120px ;
+    height: 120px;
+
+    
+            
+    
+}
+img
+{
+    width: 100px;
+    height: 100px;
+}
